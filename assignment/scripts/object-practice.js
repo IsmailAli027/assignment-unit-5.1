@@ -33,6 +33,7 @@ console.log('My full name is', fullName);
   - Console.log your first favorite food
   - Console.log your last favorite food 
 */
+console.log('My first favorite food is:', me.faveThreeFoods[0]);
 
 
 
@@ -50,3 +51,4 @@ console.log('My full name is', fullName);
   - Cool huh? It works, even though it wasn't there before
   - Console.log your object
 */
+
